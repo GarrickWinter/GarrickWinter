@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GarrickWinter
+- 👋 Hi, I’m Guerric
 - 👀 I’m interested in game design, particularly procedural generation and narrative systems
 - 🌱 I’m currently learning various aspects of procedural generation
 - 💞️ I’m not looking to collaborate on anything specific right now
